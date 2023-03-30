@@ -33,3 +33,4 @@ const getcaptcha = async (req,res) => {
 
 
 module.exports = {getcaptcha}
+
